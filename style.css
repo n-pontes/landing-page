@@ -74,3 +74,16 @@ a {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+button.signup {
+    background-color: #3882F6;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-radius: 8px;
+    border:0;
+}
