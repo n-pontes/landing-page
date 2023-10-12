@@ -6,15 +6,6 @@ body {
     font-family: 'Roboto', sans-serif;
     }
 
-.header1 {
-    background-color: #1F2937;
-    color: white;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    padding-right: 50px;
-    padding-left: 50px;
-}
 
 h1 {
     font-size: 24px;
@@ -32,3 +23,5 @@ a {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+
