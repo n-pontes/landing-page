@@ -88,9 +88,35 @@ button.signup {
     border: 0;
 }
 
+
+/*.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    font-size:  36px;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 52px;
+}
+
 .info {
+    max-width: 200px;
+}
+
+img {
     width: 100px;
     height: 100px;
-    background-color: rgb(55, 42, 42);
-    border: #3882F6;
-}
+}*/
+
+
+
