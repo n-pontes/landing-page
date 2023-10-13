@@ -40,19 +40,25 @@ section {
 
 article {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
-    border: solid red;
     height: calc(40vh - 50px);
     background-color: #E5E7EB;
+    padding-right: 280px;
+    padding-left: 390px;
+    padding-top: 180px;
+    padding-bottom: 180px;
 }
 
 .bquote {
     font-size: 36px;
     font-weight: lighter;
     font-style: italic;
-    color: #1F2937;
-    border: solid red;
+    color: #3e3e3e;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 800px;
 }
 
 .container {
