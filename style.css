@@ -62,9 +62,10 @@ article {
 }
 
 .author {
-    border: solid red;
     display: flex;
     justify-content: flex-end;
+    font-size: 22px;
+    font-weight: 900;
 }
 
 .container {
