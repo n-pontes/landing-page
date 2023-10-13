@@ -38,6 +38,15 @@ section {
     background-color: white;
 }
 
+article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid red;
+    height: calc(40vh - 50px);
+    background-color: #E5E7EB;
+}
+
 .container {
     display: flex;
     align-items: center;
