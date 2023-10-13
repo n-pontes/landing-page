@@ -47,6 +47,14 @@ article {
     background-color: #E5E7EB;
 }
 
+.bquote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+    border: solid red;
+}
+
 .container {
     display: flex;
     align-items: center;
