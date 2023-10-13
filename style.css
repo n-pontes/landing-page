@@ -61,6 +61,12 @@ article {
     width: 800px;
 }
 
+.author {
+    border: solid red;
+    display: flex;
+    justify-content: flex-end;
+}
+
 .container {
     display: flex;
     align-items: center;
