@@ -85,5 +85,12 @@ button.signup {
     padding-bottom: 5px;
     padding-top: 5px;
     border-radius: 8px;
-    border:0;
+    border: 0;
+}
+
+.info {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(55, 42, 42);
+    border: #3882F6;
 }
