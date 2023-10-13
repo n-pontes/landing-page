@@ -28,6 +28,33 @@ main {
     height: calc(40vh - 50px);
 }
 
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(40vh -25px);
+    padding-right: 20px;
+    padding-left: 280px;
+    border: solid red;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-right: 200px;
+    gap: 10px;
+    width: 67%;
+}
+
+.info {
+    text-align: center;
+}
+
+.text {
+    color: rgb(69, 69, 69);
+}
+
 .hero-img {
     max-width: 450px;
     height: auto;
@@ -88,6 +115,11 @@ button.signup {
     border: 0;
 }
 
+.title {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
 
 /*.container {
     display: flex;
@@ -111,12 +143,12 @@ section {
 
 .info {
     max-width: 200px;
-}
+}*/
 
 img {
     width: 100px;
     height: 100px;
-}*/
+}
 
 
 
