@@ -56,6 +56,8 @@ summary {
     align-items: center;
     background-color: white;
     height: calc(40vh - 50px);
+    padding-right: 280px;
+    padding-left: 390px;
 }
 
 .blue {
@@ -69,8 +71,20 @@ summary {
 }
 
 .call {
-    border: solid red;
     color: white;
+}
+
+.signother {
+    background-color: #3882F6;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-radius: 8px;
+    border: solid white;
 }
 
 h2 {
