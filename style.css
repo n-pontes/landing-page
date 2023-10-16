@@ -59,6 +59,11 @@ summary {
     height: calc(40vh - 50px);
 }
 
+.blue {
+    background-color: #3882F6;
+    width: 100vh;
+}
+
 .bquote {
     font-size: 36px;
     font-weight: lighter;
