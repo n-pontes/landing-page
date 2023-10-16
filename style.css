@@ -52,7 +52,7 @@ article {
 
 summary {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     background-color: white;
     border:  solid red;
@@ -61,7 +61,16 @@ summary {
 
 .blue {
     background-color: #3882F6;
+    border: solid red;
+    height: 140px;
     width: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.call {
+    border: solid red;
 }
 
 .bquote {
