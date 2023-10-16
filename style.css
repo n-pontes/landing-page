@@ -55,13 +55,12 @@ summary {
     justify-content: space-around;
     align-items: center;
     background-color: white;
-    border:  solid red;
     height: calc(40vh - 50px);
 }
 
 .blue {
     background-color: #3882F6;
-    border: solid red;
+    border-radius: 8px;
     height: 140px;
     width: 100vh;
     display: flex;
@@ -71,6 +70,7 @@ summary {
 
 .call {
     border: solid red;
+    color: white;
 }
 
 h2 {
