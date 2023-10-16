@@ -50,6 +50,15 @@ article {
     padding-bottom: 180px;
 }
 
+summary {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border:  solid red;
+    height: calc(40vh - 50px);
+}
+
 .bquote {
     font-size: 36px;
     font-weight: lighter;
